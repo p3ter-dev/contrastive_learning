@@ -9,9 +9,6 @@ This capability is essential for applications like **semantic search**, knowledg
 ***
 
 ## Technology Stack & Dependencies
-
-* **Programming Language:** Python 3.x
-* **Deep Learning Framework:** PyTorch
 * **Core Libraries:** `sentence-transformers`, `transformers`, `datasets`, `umap-learn`, `matplotlib`, `gradio`.
 
 ***
